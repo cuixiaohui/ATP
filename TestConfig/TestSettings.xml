@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>PROJECT_FOLDER_PATH</Name>	
+		<Value>D:\Generic_Framework</Value>         
+	</Variable>
+	<!--Below variable(BROWSER_TYPE) is applicable for Web Based applications only--> 
+	<Variable>
+		<Name>BROWSER_TYPE</Name>	
+		<Value>InternetExplorer</Value>       
+		<!--Internet Explorer Browser enter the value as:  InternetExplorer --> 
+		<!--Mozilla Firefox Browser enter the value as:  MozillaFirefox --> 
+		<!--Netscape Browser enter the value as:  Netscape --> 
+	</Variable>
+</Environment>
